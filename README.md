@@ -2,8 +2,8 @@
 Виконання практичної роботи. esrdtfyui.
 
 ## Вставлення
-```bash
-git clone https://github.com/pylypchuksmkn25-maker/Project-03.git
+'''bash
+git clone https://github.com/pylypchuksmkn25-maker/Project-03.git'''
 
 ## Використання
 Відкрийте файл index.html у будь-якому браузері
